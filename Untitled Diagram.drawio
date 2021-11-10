@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T16:32:09.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.3" etag="GymSYWREqvDbWRkt33O6" type="github"><diagram id="5jA5cw8wBxb6K4tL3fEd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-10T16:52:08.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Xm6enuzsrRCrg7EfbNUb" version="15.7.3" type="github">
+  <diagram id="5jA5cw8wBxb6K4tL3fEd" name="Page-1">
+    <mxGraphModel dx="806" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-3" value="Chemical Engineering&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="80" width="245" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-4" value="Mechanical Engineering&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="250" width="245" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-5" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;METU" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="235" y="115" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-6" value="&lt;span&gt;VT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;align=right;" vertex="1" parent="1">
+          <mxGeometry x="310" y="115" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;METU" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-12" value="&lt;span&gt;VT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;align=right;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m0wlRtBCr-voOQ-VWrQM-15" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Curriculum Comparison&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="185" y="40" width="285" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
